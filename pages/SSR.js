@@ -35,4 +35,5 @@ export async function getStaticProps(){
     console.log(error);
   }
 }
+
 // pages > index.js && pages> SSR.js deference
